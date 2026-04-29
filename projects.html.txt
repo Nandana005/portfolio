@@ -125,7 +125,7 @@
             <p><strong>Model Used:</strong> K-Means Clustering</p>
             <p><strong>Result:</strong> Customers grouped into meaningful segments.</p>
             <p><strong>Key Learning:</strong> Understanding unsupervised learning techniques.</p>
-            <a href="https://github.com/@Nandana2005/project1" class="button">GitHub Link</a>
+            <a href="https://github.com/Nandana005/project1" class="button">GitHub Link</a>
         </div>
 
     </div>
